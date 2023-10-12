@@ -3,7 +3,7 @@ from tkinter import messagebox, simpledialog
 from datetime import datetime
 from tkinter import filedialog
 
-
+#헤헤
 def save_memo():
     memo_text = memo_entry.get("1.0", "end-1c") + "\n"
 
