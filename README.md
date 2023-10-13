@@ -3,3 +3,4 @@
 
 <img src="https://img.shields.io/badge/Visual Studio-skyblue?style=flat&logo=Visual Studio&logoColor=white"/>
  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
