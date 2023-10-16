@@ -1,3 +1,4 @@
 #test code
 
-print("my name is heo in hae")
+print("my name is Heo In Hae")
+t = input("BCD")
